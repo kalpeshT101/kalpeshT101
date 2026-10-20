@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kalpesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on [Appwrite](https://github.com/appwrite/appwrite)
-
-- 🌱 I’m currently learning **React, NextJS, Ruby On Rails**
-
-- 👯 I’m looking to collaborate on [Appwrite](https://github.com/appwrite/appwrite)
-
-- 👨‍💻 All of my projects are available at [https://github.com/kalpeshT101](https://github.com/kalpeshT101)
-
-- 💬 Ask me about **react, html, css**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kalpesh-tated-566241171**
 
