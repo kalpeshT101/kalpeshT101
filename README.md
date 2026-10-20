@@ -2,8 +2,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/kalpesh-tated-566241171**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jzCGh-Ci2xHBYhDpAo6SwUHMQkgVUasF/view?usp=sharing](https://drive.google.com/file/d/1jzCGh-Ci2xHBYhDpAo6SwUHMQkgVUasF/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kj101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kj101" height="30" width="40" /></a>
